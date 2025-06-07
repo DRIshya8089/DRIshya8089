@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drishya N</h1>
 <h3 align="center">Full Stack Web Developer from India. Passionate Photographer. Both Hardware and Software Enthusiast. Interested in ai,ml,es,iot projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="DRIshya8089" alt="DRIshya8089" /></a> </p>
 
 - 📸👀 Checkout my photography works at my official photography portfolio [https://online.fliphtml5.com/vwrdfv/fzqk/](https://online.fliphtml5.com/vwrdfv/fzqk/)
 
