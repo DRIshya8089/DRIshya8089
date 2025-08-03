@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Drishya N</h1>
 <h3 align="center">Final year undergraduate in Electronics and Computer Engineering. Passionate in both Hardware and Software. Currently workig with Embedded Systems,IoT, Tiny ML, Python development projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drishya8089" alt="drishya8089" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development, Deep learning, Embedded C**
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/drafts](https://medium.com/me/stories/drafts)
