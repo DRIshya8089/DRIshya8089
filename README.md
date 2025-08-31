@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drishya N</h1>
-<h3 align="center">Final year undergraduate in Electronics and Computer Engineering. Passionate in both Hardware and Software. Currently workig with Embedded Systems,IoT, Tiny ML, Python development projects.</h3>
+<h3 align="center">Final year undergraduate in Electronics and Computer Engineering. Passionate in both Hardware and Software. Currently working with Embedded Systems,IoT, Tiny ML, and Python development projects.</h3>
 
 - 🌱 I’m currently learning **Web Development, Deep learning, Embedded C**
 
